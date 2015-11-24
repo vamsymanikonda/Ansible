@@ -2,7 +2,7 @@
  default
 
 [appservers]
- 127.0.0.1
+ 54.174.8.60
 
 [all]
  webservers
